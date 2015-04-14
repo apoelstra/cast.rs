@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex['cast'] = {"items":[[0,"","cast","Checked scalar casting",null,null],[8,"From","","The \"cast from\" operation",null,null],[16,"Output","cast::From","The result of the cast operation: either `Self` or `Option<Self>`",null,null],[10,"from","cast","Checked cast from `Src` to `Self`",0,{"inputs":[{"name":"from"},{"name":"src"}],"output":{"name":"output"}}],[11,"from_","","Workaround for rust-lang/rust#24382. See module docs for details",0,{"inputs":[{"name":"from"},{"name":"src"}],"output":{"name":"output"}}],[6,"Output","","",null,null]],"paths":[[8,"From"]]};
+initSearch(searchIndex);
